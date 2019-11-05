@@ -4,7 +4,9 @@ This is a new port of the [smart-highlighting-gedit](https://code.google.com/p/s
 
 This `Readme.md` file and the naming is based on an earlier port for Pluma: [smart-highlighting-pluma-plugin](https://github.com/maciejzgadzaj/smart-highlighting-pluma-plugin/).
 
-This version was tested on Tue 29 Oct 2019 using Linux 5.1.18-300.fc30.x86_64 and Pluma version 1.22.2. 
+This version was tested on Tue 29 Oct 2019 using the kernel Linux 5.1.18-300.fc30.x86_64 and Pluma version 1.22.2. 
+
+![Screenshot](PlumaScreenshot.png "Screenshot of smart-highlighting-pluma-plugin-2")
 
 
 ## Features
