@@ -19,7 +19,7 @@ This version was tested on Tue 29 Oct 2019 using the kernel Linux 5.1.18-300.fc3
 
 ## Installation
 
-* Extract files to directory `~/.local/share/gedit/plugins/`
+* Extract files to directory `~/.local/share/pluma/plugins/`
 * Run **pluma** text editor
 * In pluma main menu go to: **Edit** -> **Preferences**
 * In **Preferences** dialog go to **Plugins** tab
